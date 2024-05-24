@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\workspace_vscode\\nodejs\\device_manage_platform-koa\\device_manage_backend\\logs\\.d864adbfa8e490700d47451db19311d515a2dd9a-audit.json",
+    "files": [
+        {
+            "date": 1715931173477,
+            "name": "D:\\workspace_vscode\\nodejs\\device_manage_platform-koa\\device_manage_backend\\logs\\warn-2024-05-17.log",
+            "hash": "caace0206e1565583c31c64d99fc08521a769126966c5671c61a81b4b3c85ce4"
+        },
+        {
+            "date": 1716536059612,
+            "name": "D:\\workspace_vscode\\nodejs\\device_manage_platform-koa\\device_manage_backend\\logs\\warn-2024-05-24.log",
+            "hash": "764e8f2256a939a6d2dca74cedb3e515b0fc990718a674f57cd95df15ce19718"
+        }
+    ],
+    "hashType": "sha256"
+}
